@@ -12,7 +12,7 @@
 # png(file = paste("path of picture saved",k,".png",sep=""),width = 1920, height = 1080)
 # 
 # remeber: un-# on ""#dev.off()"" (which is for functoin"png")
-#######################################################################################
+#####################################################################################
 
 #How many picture per sec(frames)
 fra=30
